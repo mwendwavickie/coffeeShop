@@ -1,0 +1,24 @@
+*{
+    font-family: Arial, sans-serif;
+
+}
+body{
+    background-image: url(top-view-coffee-scoop-table_23-2148336725.jpg);
+    background-size: cover;
+    color: black;
+}
+h1{
+    font-weight: 500;
+    margin-top: 20px;
+    
+}
+.btn{
+    margin:50px;
+}
+
+.navbar-nav .navbar-links{
+    color: black;
+
+
+
+}
